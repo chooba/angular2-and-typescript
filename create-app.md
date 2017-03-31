@@ -49,4 +49,5 @@
 
 Дождаться, когда появится:
 
-TODO
+    Installed packages for tooling via npm.
+    Project 'chooba-app' successfully created.
