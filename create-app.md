@@ -51,3 +51,5 @@
 
     Installed packages for tooling via npm.
     Project 'chooba-app' successfully created.
+
+[пред. страница - Настройка среды разработки](setup.md) | [след. страница - Запуск программы](run-app.md)
